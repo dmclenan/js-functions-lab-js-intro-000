@@ -1,4 +1,4 @@
 // write your code below!
-console.log(`Happy + holidays`){
+console.log Happyholidays(){
 return "Happyholidays!"
 }
